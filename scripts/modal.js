@@ -47,16 +47,16 @@ const dataProjects = [
         date: '23 de novembro de 2023',
         description: "Essa foi a minha tentativa de clonar a interface do YouTube utilizando HTML5, CSS3 e JavaScript. Com o conceito Don't Repeat Yourself na mente, fiz com que todo o projeto rodasse em uma única página manipulada pelo JavaScript, que fica responsável por atualizar o source e a descrição dos vídeos dependendo de qual vídeo o usuário seleciona, além de ocultar/exibir o sidebar e a main para dar destaque ao vídeo. Estou há aproximadamente um mês e meio estudando JavaScript e estou bem satisfeito por já estar conseguindo utilizá-lo para facilitar o desenvolvimento dos meus projetos, isso é extremamente motivador. Voltarei nesse projeto em breve para aprimorá-lo cada vez mais.",
         videoSrc: 'https://streamable.com/e/q700dy',
-        site: 'https://youtube-rhuanbello.vercel.app/'
+        site: '#'
 
     },
     {
         title: 'Digital Flix',
         date: 'Em desenvolvimento',
         description: "Em desenvolvimento",
-        videoSrc: '',
-        linkedin: '',
-        repository: '',
+        videoSrc: '#',
+        linkedin: '#',
+        repository: '#',
         site: ''
 
     },
