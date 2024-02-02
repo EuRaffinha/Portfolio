@@ -112,8 +112,8 @@ const dataProjects = [
         videoSrc: 'https://streamable.com/e/u6x84w',
        
         linkedin: '',
-        repository: 'https://github.com/rhuanbello/naped',
-        site: 'https://naped-rhuanbello.vercel.app/'
+        repository: 'https://github.com/EuRaffinha/Naped',
+        site: 'https://euraffinha.github.io/Naped/'
 
     },
     {
