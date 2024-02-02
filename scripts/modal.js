@@ -14,7 +14,7 @@ const dataProjects = [
         • Verso do Card com informações sobre o DoWhile 2021; <br>
         • Versão Desktop e Mobile.`, 
         videoSrc: 'https://streamable.com/e/qceqn0',
-        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:6858050562471145472/',
+     
         repository: 'https://github.com/rhuanbello/origin-nlw-heat',
         site: 'https://dowhile2021-rhuanbello.vercel.app/'
 
@@ -35,9 +35,9 @@ const dataProjects = [
         • Moment.js; <br>
         `, 
         videoSrc: 'https://streamable.com/e/usgia6',
-        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:6862799471626059776/',
-        repository: 'https://github.com/rhuanbello/dailyweather',
-        site: 'https://dailyweather.vercel.app/'
+      
+        repository: 'https://github.com/EuRaffinha/Dailyweather-master',
+        site: 'https://euraffinha.github.io/Dailyweather-master/'
 
     },
     {
@@ -50,9 +50,9 @@ const dataProjects = [
         • O tamanho da fonte do display se adapta conforme os números são adicionados; <br>
         • Responsivo para Mobile;`,
         videoSrc: 'https://streamable.com/e/65khi6',
-        linkedin: 'https://www.linkedin.com/posts/rhuanbello_clone-windows-calculator-activity-6854500487987904512-kwzK',
-        repository: 'https://github.com/rhuanbello/clone-windowsCalculator',
-        site: 'https://calculator-rhuanbello.vercel.app/'
+        
+        repository: 'https://github.com/EuRaffinha/Clone-calculadora',
+        site: 'https://clone-calculadora.vercel.app/'
 
     },
     {
@@ -61,8 +61,8 @@ const dataProjects = [
         description: "Um E-Commerce utilizando apenas JavaScript (com localStorage) 🚀 <br><br> O objetivo desse segundo checkpoint era de desenvolver não só habilidades técnicas, mas também soft-skills como o trabalho em equipe e a organização. <br> Para essa entrega, nossa equipe (composta por Marcelo Garofalo, Filipe Farias e eu) decidiu transformar a entrega em uma loja virtual com JavaScript, alinhando o projeto com a nossa matéria de Programação Imperativa, ministrada pela instrutora Ana Cristina Teixeira. <br><br> Decidimos explorar as funcionalidades do localStorage para poder armazenar e recuperar as informações dos produtos adicionados ao carrinho, permitindo ao usuário alterar a quantidade de itens ou removê-los completamente. <br><br> Como demonstra o vídeo abaixo, mesmo após fecharmos o nosso navegador, os itens persistem em nosso carrinho de compras devido ao uso do localStorage, que armazena essas informações em nosso browser e possibilita a recuperação destes dados quando a página é aberta novamente.",
         videoSrc: 'https://streamable.com/e/tlz8yr',
         linkedin: 'https://www.linkedin.com/posts/rhuanbello_javascript-developer-digital-activity-6849053582579388416-IfoH',
-        repository: 'https://github.com/rhuanbello/deathcatgrocerystore',
-        site: 'https://deathcatgrocerystore.vercel.app/'
+        repository: 'https://github.com/EuRaffinha/Death-Cat-Grocery-Store',
+        site: 'https://euraffinha.github.io/Death-Cat-Grocery-Store/'
 
     },
     {
@@ -70,9 +70,9 @@ const dataProjects = [
         date: '23 de Novembro de 2023',
         description: "Essa foi a minha tentativa de clonar a interface do YouTube utilizando HTML5, CSS3 e JavaScript. Com o conceito Don't Repeat Yourself na mente, fiz com que todo o projeto rodasse em uma única página manipulada pelo JavaScript, que fica responsável por atualizar o source e a descrição dos vídeos dependendo de qual vídeo o usuário seleciona, além de ocultar/exibir o sidebar e a main para dar destaque ao vídeo. Estou há aproximadamente um mês e meio estudando JavaScript e estou bem satisfeito por já estar conseguindo utilizá-lo para facilitar o desenvolvimento dos meus projetos, isso é extremamente motivador. Voltarei nesse projeto em breve para aprimorá-lo cada vez mais.",
         videoSrc: 'https://streamable.com/e/q700dy',
-        linkedin: 'https://www.linkedin.com/posts/rhuanbello_html-css-developer-activity-6845803020157116417-39dj',
-        repository: 'https://github.com/rhuanbello/clone-youtube',
-        site: 'https://youtube-rhuanbello.vercel.app/'
+       
+        repository: 'https://github.com/EuRaffinha/Clone-Youtube',
+        site: 'https://euraffinha.github.io/Clone-Youtube/'
 
     },
     {
@@ -203,8 +203,8 @@ const dataProjects = [
         description: "Projeto desenvolvido durante o curso de CSS com SASS da Origamid.",
         videoSrc: 'https://streamable.com/e/ajfxe4',
         linkedin: '',
-        repository: 'https://github.com/rhuanbello/lesconde',
-        site: 'https://lesconde-rhuanbello.vercel.app/'
+        repository: 'https://github.com/EuRaffinha/Le-scone',
+        site: 'https://le-scone-topaz.vercel.app/'
 
     },
     {
@@ -213,8 +213,8 @@ const dataProjects = [
         description: "Projeto de mais um curso da Origamid, dessa vez sobre CSS Grid Layout, que sinceramente é uma mão na roda. Nunca foi tão fácil mudar totalmente a composição de um site, você literalmente pode fazer isso com uma linha de código. Após conhecer todos os conceitos dessa especificação (como o Grid Template Columns, Rows, Areas e Auto) foi desenvolvido o site Wildbeast para fixar na prática todo o aprendizado.",
         videoSrc: 'https://streamable.com/e/dyan89',
         linkedin: 'https://www.linkedin.com/posts/rhuanbello_opentowork-css-html-activity-6819437498171822080-BTlV',
-        repository: 'https://github.com/rhuanbello/wildbeast',
-        site: 'https://rhuanbello.github.io/wildbeast/'
+        repository: 'https://github.com/EuRaffinha/Wildbeast',
+        site: 'https://wildbeast-eight-murex.vercel.app/'
 
     },
 
